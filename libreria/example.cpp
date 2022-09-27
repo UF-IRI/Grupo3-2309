@@ -9,10 +9,7 @@
 //}
 
 
-int temperaturaspacientes(float temperaturas1, float temperaturas2)
-
-{
-   float temps[2]={temperaturas1,temperaturas2};
+int temperaturaspacientes(float* temperaturas) {
 
  
     int countfeber = 0;

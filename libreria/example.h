@@ -9,4 +9,4 @@
 //}
 
 
-int temperaturaspacientes(float* temperaturas[]);
+int temperaturaspacientes(float* temperaturas);
